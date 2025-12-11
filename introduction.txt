@@ -1,0 +1,2 @@
+Brief Introduction About Myself
+This is the first time l am hear about Git & GitHub
